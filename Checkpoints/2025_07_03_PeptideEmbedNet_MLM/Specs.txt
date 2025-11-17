@@ -1,0 +1,7 @@
+- MLM Objective
+- num_layers=1
+- ffn_dim=512
+- context_window=64
+
+- 2.5e5 datapoints
+- 1603611 Parameters
