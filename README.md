@@ -95,3 +95,8 @@ trains the PeptideEmbedNet
 python FT_VAE_testing.py
 ```
 combines all 3 models to create new samples according to the embedding of a sample input. 
+
+
+## Molecular Dynamics 
+
+The scripts and commands used for the molecular dynamics, together with the chosen parameters can be found in the **MD_analysis** subfolder. The **ReadMe.md** file in the **MD_analysis** subfolder contains more detailed instructions.  
