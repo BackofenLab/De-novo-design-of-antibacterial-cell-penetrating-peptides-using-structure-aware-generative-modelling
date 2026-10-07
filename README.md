@@ -64,11 +64,6 @@ This script can be run from the command line with various options.
 
 **Basic Usage**  
 
-To use HVSeeker you can either train models yourself or download our pretrained models from https://drive.google.com/drive/folders/1wHWgxH3Y9YSNJXugtZZrLI4PWJ6SDkaK?usp=sharing
-We recommend using the the corresponding padding model. 
-
-All shared global variables in the script have to be set upfront in the **globals.py** file.
-
 
 ```
 python FT_VAE_main.py 
