@@ -4,6 +4,9 @@ Cell-penetrating peptides (CPPs) offer a powerful route for delivering therapeut
 
 ## Features  
 Allows for training 3 different models, explained in the paper "De novo design of antibacterial cell-penetrating peptides using structure-aware generative modelling"
+
+## Samples  
+Pre-prepared samples drawn for all categories can be found in the Samples folder
   
 ## Prerequisites
 Before you run this script, ensure you have the following installed:  
